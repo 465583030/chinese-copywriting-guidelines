@@ -1,4 +1,4 @@
-# 中文文案排版指北
+# 中文文案排版指南
 [![devDependency Status](https://david-dm.org/Townwang/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/Townwang/chinese-copywriting-guidelines#info=devDependencies)
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
